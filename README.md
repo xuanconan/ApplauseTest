@@ -2,6 +2,9 @@
 ## Ke(Conan) Xuan
 ---
 ## Usage demo
+### Links to YouTube videos
+[SystemDemo](https://youtu.be/fl2i4kVVl4w)
+---
 When you select or delete anything in filter, table changes immediately
 
 - You can search or select with filter
@@ -15,10 +18,6 @@ When you select or delete anything in filter, table changes immediately
 - You can also SelectAll for each filter
 
 ![Screen Shot 2019-03-16 at 9 45 52 PM](https://user-images.githubusercontent.com/28968470/54484642-11c97400-4841-11e9-9274-cbfd89b13f14.png)
-
----
-## Links to YouTube videos
-1. [SystemDemo](https://www.youtube.com/edit?o=U&video_id=KsDt0EgWY0k)
 
 ---
 ## Pre-requisites
