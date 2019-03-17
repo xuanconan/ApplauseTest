@@ -2,17 +2,17 @@
 ## Ke(Conan) Xuan
 ---
 ## Usage demo
-When you add or delete anything, table changes immediately
+When you select or delete anything in filter, table changes immediately
 
-You can search or select with filter
+- You can search or select with filter
 
 ![Screen Shot 2019-03-16 at 9 44 47 PM](https://user-images.githubusercontent.com/28968470/54484619-cd3dd880-4840-11e9-8dcf-92a5389b339e.png)
 
-And it will show based on your selection
+- And it will show based on your selection
 
 ![Screen Shot 2019-03-16 at 9 45 10 PM](https://user-images.githubusercontent.com/28968470/54484674-67058580-4841-11e9-8b4d-2c4e5e3e1419.png)
 
-You can also select all for each filter
+- You can also SelectAll for each filter
 
 ![Screen Shot 2019-03-16 at 9 45 52 PM](https://user-images.githubusercontent.com/28968470/54484642-11c97400-4841-11e9-9274-cbfd89b13f14.png)
 
