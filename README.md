@@ -43,12 +43,10 @@ from (select bugs.bugId, bugs.deviceId, bugs.testerId, devices.description  from
 join testers on bug_device.testerId = testers.testerId group by bug_device.deviceId, bug_device.testerId order by testerId, deviceId
 
 
-3. Back end installation: 
-	 - Open Applause Project in IDE
-
-	 - Change the sql database connection credential to your own
-
-         - Run ApplauseApplication
+3. Back end installation:
+	 - Open ApplauseWebservice in IDE
+	 - npm install
+	 - ng serve
 
 
 4. Frontend installation commands:
