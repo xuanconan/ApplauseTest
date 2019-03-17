@@ -45,7 +45,9 @@ join testers on bug_device.testerId = testers.testerId group by bug_device.devic
 
 3. Back end installation: 
 	 - Open Applause Project in IDE
+
 	 - Change the sql database connection credential to your own
+
          - Run ApplauseApplication
 
 
