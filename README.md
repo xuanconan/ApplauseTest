@@ -2,9 +2,8 @@
 ## Ke(Conan) Xuan
 ---
 ## Usage demo
-### Links to YouTube videos
-[SystemDemo](https://youtu.be/fl2i4kVVl4w)
----
+#### Links to YouTube videos      [SystemDemo](https://youtu.be/fl2i4kVVl4w)
+
 When you select or delete anything in filter, table changes immediately
 
 - You can search or select with filter
