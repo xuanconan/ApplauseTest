@@ -1,6 +1,19 @@
 # Applause
----
 ## Ke(Conan) Xuan
+---
+## Usage demo
+
+You can search or select with filter
+
+![Screen Shot 2019-03-16 at 9 44 47 PM](https://user-images.githubusercontent.com/28968470/54484619-cd3dd880-4840-11e9-8dcf-92a5389b339e.png)
+
+And it will show based on your selection
+
+![Screen Shot 2019-03-16 at 9 45 52 PM](https://user-images.githubusercontent.com/28968470/54484642-11c97400-4841-11e9-9274-cbfd89b13f14.png)
+
+You can also select all for each filter
+
+![Screen Shot 2019-03-16 at 12 01 05 AM](https://user-images.githubusercontent.com/28968470/54484645-2574da80-4841-11e9-82d6-a04749e4982c.png)
 
 ---
 ## Links to YouTube videos
@@ -53,3 +66,12 @@ join testers on bug_device.testerId = testers.testerId group by bug_device.devic
 	 - Open ApplauseWebservice in IDE
 	 - npm install
 	 - ng serve
+
+
+---
+## Approach
+1. After create view in MySql database, use JDBC in JAVA to setup connection between database and backend
+
+2. Build RESTful API for connecting frontend and backend
+
+3. Render data with designed filter
