@@ -2,6 +2,7 @@
 ## Ke(Conan) Xuan
 ---
 ## Usage demo
+When you add or delete anything, table changes immediately
 
 You can search or select with filter
 
