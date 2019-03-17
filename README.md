@@ -35,7 +35,8 @@
 
    Then load CSV files to your MySql database.
 
-2. Create View
+2. Create View:
+
    CREATE OR REPLACE VIEW `Tester_Matching` AS 
 select uuid_short() AS uniqueId, bug_device.testerId, firstName, lastName, country,  deviceId, count(deviceId) as device_bug, description
 from (select bugs.bugId, bugs.deviceId, bugs.testerId, devices.description  from bugs join devices on bugs.deviceId = devices.deviceId) as bug_device 
