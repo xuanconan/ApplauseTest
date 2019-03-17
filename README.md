@@ -44,9 +44,9 @@ join testers on bug_device.testerId = testers.testerId group by bug_device.devic
 
 
 3. Back end installation:
-	 - Open ApplauseWebservice in IDE
-	 - npm install
-	 - ng serve
+	 - Open Applause project in IDE
+	 - Change sql database credential
+	 - Run ApplauseApplication
 
 
 4. Frontend installation commands:
